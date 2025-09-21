@@ -1,7 +1,7 @@
 # Coding Assignment 11 – Dockerized React App
 
 **Student:** Yaohuang Chen  
-**Course:** WEBD-3012 (273795) Business Systems Development  
+**Course:** WEBD-3012 (273795) Business Systems Build and Testing 
 
 This project contains a React application created with `create-react-app`.  
 When run inside Docker, the application displays an `<h1>` with the text **"Codin 1"** at [http://localhost:7775](http://localhost:7775).

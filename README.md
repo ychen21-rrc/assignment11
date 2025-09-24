@@ -8,10 +8,10 @@ This project contains a React application created with `create-react-app`.
 This assignment started by creating a new React project using the following command:
 
 ```bash
-npx create-react-app assignment11
+npx create-react-app app
 ```
 
-This command generated the initial React project structure inside a folder named `assignment11`. 
+This command generated the initial React project structure inside a folder named `app`. 
 Then, the file `App.js` was modified so that it displays `<h1>Codin 1</h1>`.
 
 When run inside Docker, the application displays an `<h1>` with the text **"Codin 1"** at [http://localhost:7775](http://localhost:7775).
